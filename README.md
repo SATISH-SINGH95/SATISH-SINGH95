@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish-singh95&label=Profile%20views&color=0e75b6&style=flat" alt="satish-singh95" /> </p>
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/thesatishkumarsingh](linkedin.com/in/thesatishkumarsingh)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/thesatishkumarsingh/](https://www.linkedin.com/in/thesatishkumarsingh/)
 
 - 📫 How to reach me **sk95satish@gmail.com**
 
