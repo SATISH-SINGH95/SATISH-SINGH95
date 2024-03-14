@@ -1,4 +1,4 @@
-![logo](https://github.com/SATISH-SINGH95/SATISH-SINGH95/blob/main/Super%20(Banner%20(Landscape))%20(1).png)
+![logo](https://github.com/SATISH-SINGH95/SATISH-SINGH95/blob/main/dev.jpg
 
 <h1 align="center">Hi 👋, I'm Satish Kumar Singh</h1>
 <h3 align="center">A passionate Java developer from India</h3>
