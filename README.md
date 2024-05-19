@@ -1,7 +1,6 @@
-![logo](https://github.com/SATISH-SINGH95/SATISH-SINGH95/blob/main/Super%20(Banner%20(Landscape))%20(1).png
-
+![logo](https://github.com/SATISH-SINGH95/SATISH-SINGH95/blob/main/dev.jpg)
 <h1 align="center">Hi 👋, I'm Satish Kumar Singh</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A Aspiring Java Backend developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://thebusinessblocks.com/wp-content/uploads/2021/07/lottie2-2.gif">
 
@@ -25,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satish-singh95&show_icons=true&locale=en" alt="satish-singh95" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satish-singh95&" alt="satish-singh95" /></p>
-
